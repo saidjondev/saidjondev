@@ -9,7 +9,7 @@
 ## 🌐 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/jumaniyazovsaidjon)
-[![TG Channel](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge\&logo=telegram channel\&logoColor=white)](https://t.me/saidjondev)
+[![TG Channel](https://img.shields.io/badge/Telegram Channel-0088cc?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/saidjondev)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/juman1yazovvv_)
 
 ---
