@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Saidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidjondev\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidjondev\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🔥 Activity Graph
