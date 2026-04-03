@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saidjon
 
 🚀 Soon Backend Developer (Laravel)
-💻 Building scalable web apps & APIs
+💻 Building scalable Web sites & APIs & Telegram bots
 📍 Xorazm, Uzbekistan
 
 ---
