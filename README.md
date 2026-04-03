@@ -30,7 +30,3 @@
 [![Saidjon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saidjondev\&theme=tokyo-night)](https://github.com/saidjondev)
 
 ---
-
-## 🧠 Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.”
